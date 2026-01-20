@@ -1035,8 +1035,8 @@ SOFTWARE.
 Need help? Here's how to get support:
 
 1. 📖 Check the [Documentation](./DOCUMENTATION.md)
-2. 🔍 Search [existing issues](https://github.com/Sahilhunter/fca-sahil/issues)
-3. 💬 Open a [new issue](https://github.com/Sahilhunter/fca-sahil/issues/new)
+2. 🔍 Search [existing issues](https://github.com/Sahil09/fca-sahil/issues)
+3. 💬 Open a [new issue](https://github.com/Sahil09/fca-sahil/issues/new)
 4. 📧 Contact the developer
 
 ---
@@ -1051,3 +1051,4 @@ Need help? Here's how to get support:
 
 
 </div>
+
