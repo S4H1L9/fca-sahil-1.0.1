@@ -1011,15 +1011,6 @@ SOFTWARE.
 ```
 
 ---
-
-## 🌐 Links & Resources
-
-- 📦 **NPM Package:** [fca-sahil](https://www.npmjs.com/package/fca-sahil)
-- 🐙 **GitHub Repository:** [Sahilhunter/fca-sahil](https://github.com/Sahilhunter/fca-sahil)
-- 📚 **Full Documentation:** [API_REFERENCE.md](./API_REFERENCE.md)
-- 📖 **Detailed Guide:** [DOCUMENTATION.md](./DOCUMENTATION.md)
-- 💬 **Community Support:** [GitHub Issues](https://github.com/Sahilhunter/fca-sahil/issues)
-
 ---
 
 ## 🙏 Acknowledgments
@@ -1051,4 +1042,5 @@ Need help? Here's how to get support:
 
 
 </div>
+
 
