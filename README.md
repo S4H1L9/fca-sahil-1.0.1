@@ -982,22 +982,6 @@ We welcome contributions! Here's how you can help:
 3. 📝 Improve documentation
 4. 🔧 Submit pull requests
 
-### Development Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/Sahilhunter/fca-sahil.git
-
-# Install dependencies
-cd fca-sahil
-npm install
-
-# Run tests
-npm test
-```
-
----
-
 ## 📝 License
 
 This project is licensed under the **MIT License**.
@@ -1005,7 +989,7 @@ This project is licensed under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2024 Sahil
+Copyright (c) 2026 Sahil Ansari 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1064,5 +1048,6 @@ Need help? Here's how to get support:
 **Made with ❤️ by Sahil**
 
 [⬆ Back to Top](#-fca-sahil)
+
 
 </div>
